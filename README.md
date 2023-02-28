@@ -32,7 +32,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/107542788/221778062-c8edd953-46c2-444f-ab8c-20fe90b5fd81.gif)
+The following animation demonstrates the application functionality:!
+
+[05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/107542788/221778062-c8edd953-46c2-444f-ab8c-20fe90b5fd81.gif)
 
 
 <!-- @TODO: create ticket to review/update image) -->
